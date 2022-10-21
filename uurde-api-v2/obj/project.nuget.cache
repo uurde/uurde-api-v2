@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vCJmeQqbtX5DMUEaS8CEDPCMCW+YaQ9AVOyNsTr3VdT3oAiw/nggDZ8TuT9qXz7nALLdN4FbxoswvFQf2KO+w==",
+  "success": true,
+  "projectFilePath": "/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/uurde.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/uurde/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/uurde/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/uurde/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/uurde/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/uurde/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/uurde/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

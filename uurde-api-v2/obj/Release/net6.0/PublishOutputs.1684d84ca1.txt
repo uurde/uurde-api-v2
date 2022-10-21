@@ -1,0 +1,11 @@
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/uurde-api-v2
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/appsettings.json
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/uurde-api-v2.dll
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/uurde-api-v2.deps.json
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/uurde-api-v2.runtimeconfig.json
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/uurde-api-v2.pdb
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/uurde/Solutions/dotNet/uurde-api-v2/uurde-api-v2/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
